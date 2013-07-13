@@ -1,6 +1,6 @@
-# p2p-node
+# Synapse
 
-peer2peer client for blogging / social networking / chatting written in nodejs. 
+peer2peer client for the PN:OI framework.
 
 ## Features (work in progress)
 * self find new client-nodes (ips)
@@ -11,3 +11,8 @@ peer2peer client for blogging / social networking / chatting written in nodejs.
 * write posts
 * news stream
 * buddy management
+
+## Trivia
+
+* Originally inspired by [p2p-node](https://github.com/polarity/p2p-node)
+
