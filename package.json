@@ -1,7 +1,7 @@
 {
-	"name": "synapse",
+	"name": "node-synapse",
 	"version": "0.1.0",
-	"description": "Registering P2P IPs",
+	"description": "[WIP] Registering P2P IPs",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js"

@@ -7,6 +7,14 @@ peer2peer client for the PN:OI framework.
 * self exchange of working client ips
 * self delete of not reachable client ips
 
+## Install 
+
+Using npm
+```
+npm instal node-synapse
+```
+
+
 ## Features (coming soon)
 * write posts
 * news stream
