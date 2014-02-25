@@ -1,2 +1,2 @@
 
-module.exports = require('./lib/cell');
+module.exports = require('./lib/main');
