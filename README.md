@@ -1,6 +1,6 @@
 # Synapse
 
-peer2peer client for the PN:OI framework.
+P2P manager for WebRTC data exchange
 
 ## Features (work in progress)
 * self find new client-nodes (ips)
@@ -14,13 +14,17 @@ Using npm
 npm instal node-synapse
 ```
 
+## Showcase
 
-## Features (coming soon)
-* write posts
-* news stream
-* buddy management
+Notable uses of ```synapse```:
 
-## Trivia
+* [PN:OI](http://pnoi.net)
 
-* Originally inspired by [p2p-node](https://github.com/polarity/p2p-node)
+## Credits
+
+Initiated by Makis Tracend ( [@tracend](http://github.com/tracend) )
+
+Originally inspired by [p2p-node](https://github.com/polarity/p2p-node)
+
+Released under the [MPL v2.0](http://www.mozilla.org/MPL/2.0/) & [AGPL](http://www.gnu.org/licenses/agpl.html)
 
